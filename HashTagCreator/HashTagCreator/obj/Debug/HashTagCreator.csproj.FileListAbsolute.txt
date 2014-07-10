@@ -1,7 +1,0 @@
-C:\git\FifaCountryCodes\HashTagCreator\HashTagCreator\bin\Debug\HashTagCreator.dll
-C:\git\FifaCountryCodes\HashTagCreator\HashTagCreator\bin\Debug\HashTagCreator.pdb
-C:\git\FifaCountryCodes\HashTagCreator\HashTagCreator\bin\Debug\nunit.framework.dll
-C:\git\FifaCountryCodes\HashTagCreator\HashTagCreator\bin\Debug\nunit.framework.xml
-C:\git\FifaCountryCodes\HashTagCreator\HashTagCreator\obj\Debug\HashTagCreator.csprojResolveAssemblyReference.cache
-C:\git\FifaCountryCodes\HashTagCreator\HashTagCreator\obj\Debug\HashTagCreator.dll
-C:\git\FifaCountryCodes\HashTagCreator\HashTagCreator\obj\Debug\HashTagCreator.pdb
